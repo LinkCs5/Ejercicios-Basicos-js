@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+    color: violet;
+    display: flex;
+    justify-content: center;  
+    align-items: center;  
+}
+ button{
+    background-color: aliceblue;
+    color: crimson;
+    font-size: 13px;
+ }
+div{
+    width: 140px;
+    height: 40px;
+    background-color: blueviolet;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: solid 1px white;
+    margin: 5px;
+}
